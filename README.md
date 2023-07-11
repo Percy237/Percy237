@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tsembom Percy Linkwe</h1>
-<h3 align="center">I love to learn more and more about the new technologies of this new world</h3>
+<h3 align="center">Tech enthusiast continuously exploring the latest advancements in this ever-evolving world. Sharing my coding journey through tweets.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=percy237&label=Profile%20views&color=0e75b6&style=flat" alt="percy237" /> </p>
